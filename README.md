@@ -1,7 +1,7 @@
 # ZCOfflineReverseCoding
 Offline reverse coding using Geojson
 
-inspired by https://github.com/Alterplay/APOfflineReverseGeocoding, which is a Objective C version.
+inspired by https://github.com/Alterplay/APOfflineReverseGeocoding, which is an Objective C version.
 
 Algorithm
 
